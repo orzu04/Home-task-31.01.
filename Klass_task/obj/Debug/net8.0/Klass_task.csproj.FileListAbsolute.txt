@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\bin\Debug\net8.0\Klass_task.exe
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\bin\Debug\net8.0\Klass_task.deps.json
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\bin\Debug\net8.0\Klass_task.runtimeconfig.json
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\bin\Debug\net8.0\Klass_task.dll
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\bin\Debug\net8.0\Klass_task.pdb
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.dll
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\refint\Klass_task.dll
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.pdb
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\Klass_task.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Home task 31.01\Klass_task\obj\Debug\net8.0\ref\Klass_task.dll
